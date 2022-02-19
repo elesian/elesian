@@ -47,7 +47,7 @@
   ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
   ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
   
-  Codewars profile: https://www.codewars.com/users/genovacle
+  Codewars profile: https://www.codewars.com/users/genovacle.
   
   
   <h2> Certifications </h2>
