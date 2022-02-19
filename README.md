@@ -1,9 +1,6 @@
 <div>
-<img width="100%" height="50%" src="https://github-readme-stats.vercel.app/api?username=elesian&show_icons=true&theme=default"/>
-</div>
-
-<div>
-<img width="100%" height = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elesian&layout=compact" />
+<img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=elesian&show_icons=true&theme=default"/>
+  <img width="50%" height = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elesian&layout=compact" />
 </div>
 
 <div>
