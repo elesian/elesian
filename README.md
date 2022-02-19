@@ -29,6 +29,10 @@
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   
+  <img width='100' height='75' src='https://github.com/elesian/certificates/blob/master/SF-Admin-Logo.png?raw=true' />
+  <img width='100' height='75' src='https://github.com/elesian/certificates/blob/master/Platform-App-Builder_.png?raw=true' />
+  
+  
   
   
   <h2> Education </h2>
@@ -41,6 +45,9 @@
   ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
   ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
   ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+  ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
+  
+  Codewars profile: https://www.codewars.com/users/genovacle
   
   
   <h2> Certifications </h2>
